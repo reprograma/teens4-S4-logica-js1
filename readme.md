@@ -12,45 +12,45 @@ Entender os princípios básicos de lógica de programação utilizando a lingua
 [Link da Apresentação](https://drive.google.com/file/d/1hG1nuUonYu1wSNIvezfNrJUxNTyzExSq/view?usp=sharing)
 
 ### Introdução  
-- [ ] Por que aprender lógica + JavaScript?
+- [x] Por que aprender lógica + JavaScript?
   
 ### Princípios básicos
-- [ ] O que são algoritmos?
-- [ ] Algoritmos no nosso dia a dia
-- [ ] Entrada, Processamento + Memória e Saída
+- [x] O que são algoritmos?
+- [x] Algoritmos no nosso dia a dia
+- [x] Entrada, Processamento + Memória e Saída
   
 ### Console
-- [ ] Como utilizar o console
+- [x] Como utilizar o console
 
 ### Variáveis e Tipos
-- [ ] Declaração de variáveis
-- [ ] Operador de atribuição
-- [ ] Atribuição de valor à variável
-- [ ] Tipo String
-- [ ] Tipo Number
-- [ ] Tipo Boolean
-- [ ] Tipo undefined e null
-- [ ] Tipo objeto / arrays 
+- [x] Declaração de variáveis
+- [x] Operador de atribuição
+- [x] Atribuição de valor à variável
+- [x] Tipo String
+- [x] Tipo Number
+- [x] Tipo Boolean
+- [x] Tipo undefined e null
+- [x] Tipo objeto / arrays 
 
 
 ### Operadores e expressões
-- [ ] Operadores aritméticos 
-- [ ] Operador Unário
-- [ ] Operadores de igualdade e relacionais
-- [ ] Operadores lógicos 
+- [x] Operadores aritméticos 
+- [x] Operador Unário
+- [x] Operadores de igualdade e relacionais
+- [x] Operadores lógicos 
 
 ### Condicionais 
-- [ ] Estrutura if / else
-- [ ] Estrutura if / else if / else
+- [x] Estrutura if / else
+- [x] Estrutura if / else if / else
 
 
 ### Repetições (Laços)
-- [ ] Estrutura for
-- [ ] Estrutura while
+- [x] Estrutura for
+- [x] Estrutura while
 
 ### Ferramentas para interagir com os inputs
-- [ ] prompt
-- [ ] alert
+- [x] prompt
+- [x] alert
 ---
 
 --
