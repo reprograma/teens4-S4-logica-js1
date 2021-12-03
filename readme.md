@@ -1,6 +1,6 @@
 # Teens-logica-com-js
 
-Teens | Front-end | 2020 | Semana 4 | Lógica com JS
+Teens4 | Front-end | 2021 | Semana 4 | Lógica com JS
 
 ## Objetivo
 Entender os princípios básicos de lógica de programação utilizando a linguagem JavaScript
@@ -9,48 +9,52 @@ Entender os princípios básicos de lógica de programação utilizando a lingua
 - Navegador Chrome
 - Visual Studio Code
 ---
-[Link da Apresentação](https://drive.google.com/file/d/1hG1nuUonYu1wSNIvezfNrJUxNTyzExSq/view?usp=sharing)
+
 
 ### Introdução  
-- [x] Por que aprender lógica + JavaScript?
+- [ ] Por que aprender lógica + JavaScript?
   
 ### Princípios básicos
-- [x] O que são algoritmos?
-- [x] Algoritmos no nosso dia a dia
-- [x] Entrada, Processamento + Memória e Saída
+- [ ] O que são algoritmos?
+- [ ] Algoritmos no nosso dia a dia
+- [ ] Entrada, Processamento + Memória e Saída
   
 ### Console
-- [x] Como utilizar o console
+- [ ] Como utilizar o console
 
 ### Variáveis e Tipos
-- [x] Declaração de variáveis
-- [x] Operador de atribuição
-- [x] Atribuição de valor à variável
-- [x] Tipo String
-- [x] Tipo Number
-- [x] Tipo Boolean
-- [x] Tipo undefined e null
-- [x] Tipo objeto / arrays 
+- [ ] Declaração de variáveis
+- [ ] Operador de atribuição
+- [ ] Atribuição de valor à variável
+- [ ] Tipo String
+- [ ] Tipo Number
+- [ ] Tipo Boolean
+- [ ] Tipo undefined e null
+- [ ] Tipo objeto / arrays 
 
 
 ### Operadores e expressões
-- [x] Operadores aritméticos 
-- [x] Operador Unário
-- [x] Operadores de igualdade e relacionais
-- [x] Operadores lógicos 
+- [ ] Operadores aritméticos 
+- [ ] Operador Unário
+- [ ] Operadores de igualdade e relacionais
+- [ ] Operadores lógicos 
 
 ### Condicionais 
-- [x] Estrutura if / else
-- [x] Estrutura if / else if / else
+- [ ] Estrutura if / else
+- [ ] Estrutura if / else if / else
 
 
 ### Repetições (Laços)
-- [x] Estrutura for
-- [x] Estrutura while
+- [ ] Estrutura for
+- [ ] Estrutura while
+
+### Funções
+- [ ] Pra que serve uma função
+- [ ] Parâmetros, retorno, chamada da função 
 
 ### Ferramentas para interagir com os inputs
-- [x] prompt
-- [x] alert
+- [ ] prompt
+- [ ] alert
 ---
 
 --
